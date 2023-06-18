@@ -4,8 +4,9 @@
     <img src='Images/used_cars.png' width=500>
 </div>
 
-*A used car, a pre-owned vehicle, or a secondhand car, is a vehicle that has previously had one or more retail owners [^1]. Dubizzle is an online e-commerce company for people in the Middle East. It provides a platform (website and app ) for people to upload items ads offering users the ability to buy, sell and find things within their community [^2].* It's the dominotor of the pre-owned car market in UAE. The purpose of the project is create a machine learning model that can predict the price of a used car by using the features such as mileage, age, make, etc. that is available for the car. The predictive model will be trained using the data that was collected from Dubizzle. 
+*A used car, a pre-owned vehicle, or a secondhand car, is a vehicle that has previously had one or more retail owners [^1]. Dubizzle is an online e-commerce company for people in the Middle East. It provides a platform (website and app ) for people to upload items ads offering users the ability to buy, sell and find things within their community [^2].* It's the dominotor of the pre-owned car market in UAE. The purpose of the project is create a machine learning model that can predict the price of a used car by using the features such as mileage, age, make, etc. that is available for the car. The predictive model will be trained using the data that was collected from Dubizzle assuming the price that the car was sold is the same price with the car was listed. The people who list their car for sale on Dubizzle are tend to list with a higher price than the actual price as negotiation is a common practice in UAE. 
 
+Data was collecte from Dubizzle [^3] which covers the listed ads between year 1953 - 2021. It has 9970 ads from different car manufacturers and models. Data dictionary can be found [here](Data/README.md).
 
 Data Overview & Preparation Steps: A brief overview of the data used, how you collected the data, and how you prepared it, which includes data preprocessing and feature engineering. Also, it is also important to provide a summary of the data.
 
@@ -20,3 +21,5 @@ Growth & Next Steps: You should also mention what are the next steps and what yo
 [^1]: [Used car](https://en.wikipedia.org/wiki/Used_car)
 
 [^2]: [Dubizzle](https://everipedia.org/wiki/lang_en/dubizzle)
+
+[^3]: [Dubizzle](https://www.dubizzle.com/)
