@@ -1,0 +1,27 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 9970 entries, 0 to 9969
+Data columns (total 20 columns):
+ #   Column                Non-Null Count  Dtype  
+---  ------                --------------  -----  
+ 0   title                 9965 non-null   object 
+ 1   price_in_aed          9970 non-null   object 
+ 2   kilometers            9970 non-null   int64  
+ 3   body_condition        9970 non-null   object 
+ 4   mechanical_condition  9970 non-null   object 
+ 5   seller_type           9970 non-null   object 
+ 6   body_type             9970 non-null   object 
+ 7   no_of_cylinders       9911 non-null   object 
+ 8   transmission_type     9970 non-null   object 
+ 9   regional_specs        9970 non-null   object 
+ 10  horsepower            9970 non-null   object 
+ 11  fuel_type             9970 non-null   object 
+ 12  steering_side         9970 non-null   object 
+ 13  year                  9000 non-null   float64
+ 14  color                 9970 non-null   object 
+ 15  emirate               9970 non-null   object 
+ 16  motors_trim           9942 non-null   object 
+ 17  company               9970 non-null   object 
+ 18  model                 9970 non-null   object 
+ 19  date_posted           9970 non-null   object 
+dtypes: float64(1), int64(1), object(18)
+memory usage: 1.5+ MB
