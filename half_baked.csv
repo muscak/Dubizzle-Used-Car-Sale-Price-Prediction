@@ -5530,7 +5530,7 @@ price_in_aed,kilometers,body_condition,mechanical_condition,seller_type,body_typ
 58000,124000,Perfect inside and out,Perfect inside and out,Owner,Sedan,6,Automatic Transmission,North American Specs,200 - 300 HP,Gasoline,Left Hand Side,2015.0,Silver, Ajman,Other,lexus,is-f
 360000,5139,Perfect inside and out,Perfect inside and out,Dealer,Pick Up Truck,8,Automatic Transmission,GCC Specs,700 - 800 HP,Gasoline,Left Hand Side,2018.0,Black, Dubai,Shelby,ford,f-series-pickup
 129000,99000,Perfect inside and out,Perfect inside and out,Dealer,Pick Up Truck,8,Automatic Transmission,GCC Specs,400 - 500 HP,Gasoline,Left Hand Side,2016.0,White, Dubai,King Ranch,ford,f-series-pickup
-24000,270000,Perfect inside and out,Perfect inside and out,Dealer,SUV,Unknown,Automatic Transmission,North American Specs,Unknown,Gasoline,Left Hand Side,2000.0,Black, Sharjah,GXR,toyota,land-cruiser
+24000,270000,Perfect inside and out,Perfect inside and out,Dealer,SUV,6,Automatic Transmission,North American Specs,Unknown,Gasoline,Left Hand Side,2000.0,Black, Sharjah,GXR,toyota,land-cruiser
 62000,103000,Perfect inside and out,Perfect inside and out,Dealer,Crossover,4,Automatic Transmission,GCC Specs,150 - 200 HP,Gasoline,Left Hand Side,2016.0,Blue, Dubai,SE,volkswagen,tiguan
 24000,185000,Perfect inside and out,Perfect inside and out,Owner,SUV,8,Automatic Transmission,GCC Specs,300 - 400 HP,Gasoline,Left Hand Side,2008.0,White, Dubai,HSE,land-rover,range-rover-sport
 38000,230296,Perfect inside and out,Perfect inside and out,Dealer,Sedan,8,Automatic Transmission,GCC Specs,400 - 500 HP,Gasoline,Left Hand Side,2011.0,White, Dubai,750Li,bmw,7-series
@@ -5764,7 +5764,7 @@ price_in_aed,kilometers,body_condition,mechanical_condition,seller_type,body_typ
 17900,149000,Perfect inside and out,Perfect inside and out,Owner,Sedan,4,Automatic Transmission,GCC Specs,150 - 200 HP,Gasoline,Left Hand Side,2009.0,White, Dubai,Other,kia,optima
 669000,0,Perfect inside and out,Perfect inside and out,Dealer,SUV,6,Automatic Transmission,GCC Specs,400 - 500 HP,Gasoline,Left Hand Side,,White, Dubai,Other,lexus,lx600
 125000,38000,Perfect inside and out,Perfect inside and out,Dealer,Sedan,4,Automatic Transmission,North American Specs,200 - 300 HP,Gasoline,Left Hand Side,2018.0,Red, Sharjah,Other,mercedes-benz,c-class
-79000,126000,Perfect inside and out,Perfect inside and out,Owner,Crossover,Unknown,Automatic Transmission,GCC Specs,Unknown,Gasoline,Left Hand Side,2015.0,Black, Dubai,HSE Luxury,land-rover,discovery-sport
+79000,126000,Perfect inside and out,Perfect inside and out,Owner,SUV,4,Automatic Transmission,GCC Specs,150 - 200 HP,Gasoline,Left Hand Side,2015.0,Black, Dubai,HSE Luxury,land-rover,discovery-sport
 1649000,7000,Perfect inside and out,Perfect inside and out,Dealer,Coupe,8,Automatic Transmission,GCC Specs,700 - 800 HP,Gasoline,Left Hand Side,2020.0,Purple, Dubai,Other,ferrari,488
 299990,95993,"A bit of wear & tear, all repaired","Minor faults, all fixed",Dealership/Certified Pre-Owned,Coupe,8,Automatic Transmission,GCC Specs,500 - 600 HP,Gasoline,Left Hand Side,2018.0,White, Dubai,GLE 63 S AMG,mercedes-benz,gle-coupe
 150000,0,Perfect inside and out,Perfect inside and out,Dealer,Pick Up Truck,6,Manual Transmission,Other,200 - 300 HP,Gasoline,Left Hand Side,,Red, Dubai,Other,toyota,land-cruiser
@@ -8522,7 +8522,7 @@ price_in_aed,kilometers,body_condition,mechanical_condition,seller_type,body_typ
 198000,78816,Perfect inside and out,Perfect inside and out,Owner,Sedan,8,Automatic Transmission,GCC Specs,400 - 500 HP,Gasoline,Left Hand Side,2015.0,Black, Dubai,S 500,mercedes-benz,s-class
 288900,115417,Perfect inside and out,Perfect inside and out,Owner,Coupe,8,Automatic Transmission,GCC Specs,500 - 600 HP,Gasoline,Left Hand Side,2015.0,White, Dubai,S 63 AMG,mercedes-benz,s-class
 62500,61000,Perfect inside and out,Perfect inside and out,Dealer,Sedan,4,Automatic Transmission,GCC Specs,200 - 300 HP,Gasoline,Left Hand Side,2018.0,Silver, Dubai,SV,nissan,altima
-320000,0,Perfect inside and out,Perfect inside and out,Dealer,SUV,4,Automatic Transmission,Other,300 - 400 HP,Diesel,Left Hand Side,,White, Dubai,GXR,toyota,land-cruiser
+320000,0,Perfect inside and out,Perfect inside and out,Dealer,SUV,6,Automatic Transmission,Other,300 - 400 HP,Diesel,Left Hand Side,,White, Dubai,GXR,toyota,land-cruiser
 95000,79000,Perfect inside and out,Perfect inside and out,Owner,Sedan,4,Automatic Transmission,North American Specs,200 - 300 HP,Gasoline,Left Hand Side,2018.0,Grey, Dubai,C300 Luxury,mercedes-benz,c-class
 1799000,24000,Perfect inside and out,Perfect inside and out,Dealer,Soft Top Convertible,12,Automatic Transmission,GCC Specs,500 - 600 HP,Gasoline,Left Hand Side,2019.0,Red, Dubai,Other,rolls-royce,dawn
 69000,15256,Perfect inside and out,Perfect inside and out,Dealership/Certified Pre-Owned,Hatchback,4,Automatic Transmission,GCC Specs,150 - 200 HP,Gasoline,Left Hand Side,2015.0,White, Dubai,197 RS,renault,clio
@@ -9125,7 +9125,7 @@ price_in_aed,kilometers,body_condition,mechanical_condition,seller_type,body_typ
 33000,190180,Perfect inside and out,Perfect inside and out,Dealer,Sedan,4,Automatic Transmission,GCC Specs,150 - 200 HP,Gasoline,Left Hand Side,2011.0,Grey, Dubai,Other,audi,a5
 69500,143000,Perfect inside and out,Perfect inside and out,Dealer,SUV,8,Automatic Transmission,GCC Specs,300 - 400 HP,Gasoline,Left Hand Side,2013.0,Silver, Dubai,HSE,land-rover,range-rover-sport
 45000,208954,Perfect inside and out,Perfect inside and out,Dealer,SUV,6,Automatic Transmission,GCC Specs,200 - 300 HP,Gasoline,Left Hand Side,2015.0,Silver, Dubai,Other,nissan,pathfinder
-109000,106000,Perfect inside and out,Perfect inside and out,Dealer,SUV,4,Automatic Transmission,GCC Specs,200 - 300 HP,Gasoline,Left Hand Side,2016.0,White, Dubai,HSE Luxury,land-rover,discovery-sport
+109000,106000,Perfect inside and out,Perfect inside and out,Dealer,SUV,4,Automatic Transmission,GCC Specs,150 - 200 HP,Gasoline,Left Hand Side,2016.0,White, Dubai,HSE Luxury,land-rover,discovery-sport
 1079000,19000,Perfect inside and out,Perfect inside and out,Dealer,Soft Top Convertible,12,Automatic Transmission,European Specs,500 - 600 HP,Gasoline,Left Hand Side,2019.0,Blue, Dubai,Other,bentley,continental-gt
 1630000,0,Perfect inside and out,Perfect inside and out,Dealer,SUV,8,Automatic Transmission,GCC Specs,600 - 700 HP,Gasoline,Left Hand Side,,Yellow, Dubai,Other,lamborghini,urus
 85000,76201,Perfect inside and out,Perfect inside and out,Dealer,SUV,6,Automatic Transmission,GCC Specs,200 - 300 HP,Gasoline,Left Hand Side,2019.0,White, Dubai,GLS,mitsubishi,pajero
